@@ -12,8 +12,9 @@ You can help by creating pull requests if you make improvements.
 - Python
 - JetBrains IntelliJ IDEA
 
-## How
+## How?
 1. Download the protoToJavaForUML.py file
 2. Run it on your console with ```python protoToJavaForUML.py [YOUR_PROTO_FILE] [NAME_OF_THE_OUTPUT_FILE_YOU_WANT]```
     - Example: ```python protoToJavaForUML.py myProject.proto myProject.java```
 3. Do the steps at [IntelliJ UML generation](https://www.jetbrains.com/help/idea/class-diagram.html#analyze_class)
+    - Example: Open a new project in IntelliJ, put ```myProject.java``` in 'src' folder. Right click on 'src' -> Diagrams -> Show Diagram. Customize your diagram from the top bar, explained in the link given above.
