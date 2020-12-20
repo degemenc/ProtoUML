@@ -9,7 +9,7 @@ Do not worry about the int32, bool etc. data types of proto syntax, even though 
 You can help by creating pull requests if you make improvements.
 
 ## Pre-Requisites
-- Python
+- Python 3
 - JetBrains IntelliJ IDEA
 
 ## How?
