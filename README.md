@@ -10,7 +10,7 @@ You can help by creating pull requests if you make improvements.
 
 ## Pre-Requisites
 - Python 3
-- JetBrains IntelliJ IDEA Ultimate (if you don't have Ultimate version, look at [ObjectAid plugin](https://www.jetbrains.com/help/idea/class-diagram.html#analyze_class) for Eclipse IDE to serve the same purpose)
+- JetBrains IntelliJ IDEA Ultimate (if you don't have Ultimate version, look at [ObjectAid plugin](https://www.objectaid.com/home) for Eclipse IDE to serve the same purpose)
 
 ## How?
 1. Download the protoToJavaForUML.py file
